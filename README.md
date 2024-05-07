@@ -1,5 +1,5 @@
-# practice-run
-## following the workshop
+# Website for my lab
+
 
 - people
 - publications
