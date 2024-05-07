@@ -1,0 +1,6 @@
+title: Psycholinguistics and Diversity Lab
+description: practice run of my future webpage
+
+remote_theme: pages-themes/cayman@v0.2.0 # Establishes a theme
+plugins:
+- jekyll-remote-theme
