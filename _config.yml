@@ -3,6 +3,6 @@ title: PALD
 description: Langugae is the key
 
 
-remote_theme: koalapychen/cayman@v0.2.0 # Establishes a theme
+remote_theme: pages-themes/cayman@v0.2.0 # Establishes a theme
 plugins:
 - jekyll-remote-theme # when an attribute has multile values, start a new line
