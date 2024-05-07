@@ -1,3 +1,3 @@
-## About
+## What we do
 
 # People 
